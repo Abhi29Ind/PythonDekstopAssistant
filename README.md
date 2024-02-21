@@ -1,4 +1,4 @@
-# PythonDekstopAssistant
+# PythonDesktopAssistant
 This is a Dekstop Assistant Project made by using python.
 This project includes several functionalities which can be performed on the Windows Dekstop just by giving commands to Voice Assistant.
 The name of this Voice Assistant is "Lee".
